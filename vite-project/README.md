@@ -1,7 +1,7 @@
 # Spend Bill Gates' Money
 [React + Vite]
 
-# Live Site -->
+## Live Site -->
 (https://spend-bill-gates-money-react.vercel.app/)
 
 ## In this project, I developed an application where users can buy and sell products. 
@@ -20,13 +20,13 @@
 Once the application is open, users can view products, purchase them, and sell them. The balance is updated with each purchase or sale transaction.
 The record of purchased products is displayed in the "Your Receipt" section.
 
-  # Features
+## Features
 View products
 Buy and sell products
 Manage balance
 Record of purchased products
 
- # Technologies
+## Technologies
 React
 JavaScript
 CSS

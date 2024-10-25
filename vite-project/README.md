@@ -1,5 +1,5 @@
 # Spend Bill Gates' Money
-# [React + Vite]
+[React + Vite]
 
 # Live Site -->
 (https://spend-bill-gates-money-react.vercel.app/)
